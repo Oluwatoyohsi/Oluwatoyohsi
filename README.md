@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oluwatoyohsi&label=Profile%20views&color=0e75b6&style=flat" alt="oluwatoyohsi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/oluwatohyosi" target="blank"><img src="https://img.shields.io/twitter/follow/oluwatohyosi?logo=twitter&style=for-the-badge" alt="oluwatohyosi" /></a> </p>
+
 - 🔭 I’m currently working on [mobapp](https://oluwatoyohsi.github.io/MobApp/)
 - 📫 How to reach me **amireesther17@gmail.com**
 
